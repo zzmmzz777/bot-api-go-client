@@ -10,7 +10,7 @@ require (
 	github.com/gofrs/uuid v4.0.0+incompatible
 	github.com/gorilla/websocket v1.4.3-0.20200912193213-c3dd95aea977
 	github.com/juju/testing v0.0.0-20210324180055-18c50b0c2098 // indirect
-	github.com/kataras/jwt v0.1.2
+	github.com/kataras/jwt v0.1.3
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
