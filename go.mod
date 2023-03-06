@@ -13,6 +13,6 @@ require (
 	github.com/kataras/jwt v0.1.2
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
+	golang.org/x/crypto v0.7.0
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
